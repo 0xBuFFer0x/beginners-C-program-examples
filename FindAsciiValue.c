@@ -1,6 +1,6 @@
 // Program to find ASCII value
 #include <stdio.h>
-int main()
+int main(void) //function don't get parameter
 {
     char c;
     printf("Enter a character: ");
